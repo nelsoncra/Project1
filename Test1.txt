@@ -1,0 +1,5 @@
+asdf1235@23                //valid
+111222333gasef             //repeat - invalid
+!123456asdf@/              //starts with ! - invalid
+ges 32 21 53 92-1 + 32;     //spaces - invalid
+ "";          
